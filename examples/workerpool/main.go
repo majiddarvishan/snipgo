@@ -209,5 +209,5 @@ func main() {
 	fmt.Println("\nCheck metrics at http://localhost:2112/metrics")
 
 	// Keep server running
-	time.Sleep(5 * time.Second)
+	time.Sleep(500 * time.Second)
 }
